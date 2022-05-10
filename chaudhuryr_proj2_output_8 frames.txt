@@ -1,0 +1,2409 @@
+
+***********************User chose frame size of 8 pages***********************
+
+
+
+
+*****************************Running FIFO******************************
+
+ '-1' indicates an empty frame
+
+Initial conditions: 
+Pages in Memory: 	-1 -1 -1 -1 -1 -1 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+
+
+Next cycle: Current page received/referenced: 6 
+SYSTEM Time: 1647505947470112 microseconds 
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 -1 -1 -1 -1 -1 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 1
+
+Next cycle: Current page received/referenced: 9 
+SYSTEM Time: 1647505947470132 microseconds 
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 -1 -1 -1 -1 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 2
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505947470152 microseconds 
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 4 -1 -1 -1 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 3
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505947470167 microseconds 
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 4 2 -1 -1 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 4
+
+Next cycle: Current page received/referenced: 12 
+SYSTEM Time: 1647505947470187 microseconds 
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 4 2 12 -1 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 5
+
+Next cycle: Current page received/referenced: 13 
+SYSTEM Time: 1647505947470202 microseconds 
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 4 2 12 13 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 6
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505947470219 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 9 4 2 12 13 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 6
+
+Next cycle: Current page received/referenced: 12 
+SYSTEM Time: 1647505947470235 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 9 4 2 12 13 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 6
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505947470253 microseconds 
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 4 2 12 13 3 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 7
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505947470268 microseconds 
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 8
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505947470285 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 9 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 8
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505947470301 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 9 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 8
+
+Next cycle: Current page received/referenced: 13 
+SYSTEM Time: 1647505947470317 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 9 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 8
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505947471522 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 9 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 8
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505947471535 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 6 
+Pages in Memory:	 15 9 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: 6 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 9
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505947471555 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 9 
+Pages in Memory:	 15 14 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: 6 9 -1 -1 -1 -1 -1 -1 
+Number of page faults: 10
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505947471571 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 14 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: 6 9 -1 -1 -1 -1 -1 -1 
+Number of page faults: 10
+
+Next cycle: Current page received/referenced: 5 
+SYSTEM Time: 1647505947471592 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 4 
+Pages in Memory:	 15 14 5 2 12 13 3 1 
+Recently Removed Pages moved to disk: 6 9 4 -1 -1 -1 -1 -1 
+Number of page faults: 11
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505947471616 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 2 
+Pages in Memory:	 15 14 5 8 12 13 3 1 
+Recently Removed Pages moved to disk: 6 9 4 2 -1 -1 -1 -1 
+Number of page faults: 12
+
+Next cycle: Current page received/referenced: 5 
+SYSTEM Time: 1647505947471640 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 14 5 8 12 13 3 1 
+Recently Removed Pages moved to disk: 6 9 4 2 -1 -1 -1 -1 
+Number of page faults: 12
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505947471665 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 14 5 8 12 13 3 1 
+Recently Removed Pages moved to disk: 6 9 4 2 -1 -1 -1 -1 
+Number of page faults: 12
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505947471691 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 14 5 8 12 13 3 1 
+Recently Removed Pages moved to disk: 6 9 4 2 -1 -1 -1 -1 
+Number of page faults: 12
+
+Next cycle: Current page received/referenced: 9 
+SYSTEM Time: 1647505947471717 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 12 
+Pages in Memory:	 15 14 5 8 9 13 3 1 
+Recently Removed Pages moved to disk: 6 12 4 2 -1 -1 -1 -1 
+Number of page faults: 13
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505947471746 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 13 
+Pages in Memory:	 15 14 5 8 9 2 3 1 
+Recently Removed Pages moved to disk: 6 12 4 13 -1 -1 -1 -1 
+Number of page faults: 14
+
+Next cycle: Current page received/referenced: 11 
+SYSTEM Time: 1647505947471771 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 3 
+Pages in Memory:	 15 14 5 8 9 2 11 1 
+Recently Removed Pages moved to disk: 6 12 4 13 3 -1 -1 -1 
+Number of page faults: 15
+
+Next cycle: Current page received/referenced: 0 
+SYSTEM Time: 1647505947471800 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 1 
+Pages in Memory:	 15 14 5 8 9 2 11 0 
+Recently Removed Pages moved to disk: 6 12 4 13 3 1 -1 -1 
+Number of page faults: 16
+
+Next cycle: Current page received/referenced: 13 
+SYSTEM Time: 1647505947471829 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 15 
+Pages in Memory:	 13 14 5 8 9 2 11 0 
+Recently Removed Pages moved to disk: 6 12 4 15 3 1 -1 -1 
+Number of page faults: 17
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505947471872 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 14 
+Pages in Memory:	 13 3 5 8 9 2 11 0 
+Recently Removed Pages moved to disk: 6 12 4 15 14 1 -1 -1 
+Number of page faults: 18
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505947471899 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 5 
+Pages in Memory:	 13 3 15 8 9 2 11 0 
+Recently Removed Pages moved to disk: 6 12 4 5 14 1 -1 -1 
+Number of page faults: 19
+
+Next cycle: Current page received/referenced: 11 
+SYSTEM Time: 1647505947471919 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 13 3 15 8 9 2 11 0 
+Recently Removed Pages moved to disk: 6 12 4 5 14 1 -1 -1 
+Number of page faults: 19
+
+Next cycle: Current page received/referenced: 6 
+SYSTEM Time: 1647505947471937 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 8 
+Pages in Memory:	 13 3 15 6 9 2 11 0 
+Recently Removed Pages moved to disk: 8 12 4 5 14 1 -1 -1 
+Number of page faults: 20
+
+Next cycle: Current page received/referenced: 6 
+SYSTEM Time: 1647505947471965 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 13 3 15 6 9 2 11 0 
+Recently Removed Pages moved to disk: 8 12 4 5 14 1 -1 -1 
+Number of page faults: 20
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505947471992 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 9 
+Pages in Memory:	 13 3 15 6 4 2 11 0 
+Recently Removed Pages moved to disk: 8 12 9 5 14 1 -1 -1 
+Number of page faults: 21
+
+Next cycle: Current page received/referenced: 10 
+SYSTEM Time: 1647505947472018 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 2 
+Pages in Memory:	 13 3 15 6 4 10 11 0 
+Recently Removed Pages moved to disk: 8 12 9 2 14 1 -1 -1 
+Number of page faults: 22
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505947472048 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 11 
+Pages in Memory:	 13 3 15 6 4 10 8 0 
+Recently Removed Pages moved to disk: 11 12 9 2 14 1 -1 -1 
+Number of page faults: 23
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505947472077 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 0 
+Pages in Memory:	 13 3 15 6 4 10 8 1 
+Recently Removed Pages moved to disk: 11 12 9 2 14 0 -1 -1 
+Number of page faults: 24
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505947472106 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 13 3 15 6 4 10 8 1 
+Recently Removed Pages moved to disk: 11 12 9 2 14 0 -1 -1 
+Number of page faults: 24
+
+Next cycle: Current page received/referenced: 10 
+SYSTEM Time: 1647505947472132 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 13 3 15 6 4 10 8 1 
+Recently Removed Pages moved to disk: 11 12 9 2 14 0 -1 -1 
+Number of page faults: 24
+
+Next cycle: Current page received/referenced: 13 
+SYSTEM Time: 1647505947472158 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 13 3 15 6 4 10 8 1 
+Recently Removed Pages moved to disk: 11 12 9 2 14 0 -1 -1 
+Number of page faults: 24
+
+Next cycle: Current page received/referenced: 11 
+SYSTEM Time: 1647505947472184 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 13 
+Pages in Memory:	 11 3 15 6 4 10 8 1 
+Recently Removed Pages moved to disk: 13 12 9 2 14 0 -1 -1 
+Number of page faults: 25
+
+Next cycle: Current page received/referenced: 11 
+SYSTEM Time: 1647505947472212 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 11 3 15 6 4 10 8 1 
+Recently Removed Pages moved to disk: 13 12 9 2 14 0 -1 -1 
+Number of page faults: 25
+
+Next cycle: Current page received/referenced: 0 
+SYSTEM Time: 1647505947472248 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 3 
+Pages in Memory:	 11 0 15 6 4 10 8 1 
+Recently Removed Pages moved to disk: 13 12 9 2 14 3 -1 -1 
+Number of page faults: 26
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505947472273 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 15 
+Pages in Memory:	 11 0 14 6 4 10 8 1 
+Recently Removed Pages moved to disk: 13 12 9 2 15 3 -1 -1 
+Number of page faults: 27
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505947472294 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 11 0 14 6 4 10 8 1 
+Recently Removed Pages moved to disk: 13 12 9 2 15 3 -1 -1 
+Number of page faults: 27
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505947472319 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 11 0 14 6 4 10 8 1 
+Recently Removed Pages moved to disk: 13 12 9 2 15 3 -1 -1 
+Number of page faults: 27
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505947472339 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 11 0 14 6 4 10 8 1 
+Recently Removed Pages moved to disk: 13 12 9 2 15 3 -1 -1 
+Number of page faults: 27
+
+Next cycle: Current page received/referenced: 6 
+SYSTEM Time: 1647505947472362 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 11 0 14 6 4 10 8 1 
+Recently Removed Pages moved to disk: 13 12 9 2 15 3 -1 -1 
+Number of page faults: 27
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505947472384 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 6 
+Pages in Memory:	 11 0 14 3 4 10 8 1 
+Recently Removed Pages moved to disk: 13 12 9 2 15 6 -1 -1 
+Number of page faults: 28
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505947472410 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 11 0 14 3 4 10 8 1 
+Recently Removed Pages moved to disk: 13 12 9 2 15 6 -1 -1 
+Number of page faults: 28
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505947472453 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 4 
+Pages in Memory:	 11 0 14 3 15 10 8 1 
+Recently Removed Pages moved to disk: 13 12 9 2 4 6 -1 -1 
+Number of page faults: 29
+
+Next cycle: Current page received/referenced: 9 
+SYSTEM Time: 1647505947472475 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 10 
+Pages in Memory:	 11 0 14 3 15 9 8 1 
+Recently Removed Pages moved to disk: 13 12 10 2 4 6 -1 -1 
+Number of page faults: 30
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505947472497 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 11 0 14 3 15 9 8 1 
+Recently Removed Pages moved to disk: 13 12 10 2 4 6 -1 -1 
+Number of page faults: 30
+
+Next cycle: Current page received/referenced: 13 
+SYSTEM Time: 1647505947472523 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 8 
+Pages in Memory:	 11 0 14 3 15 9 13 1 
+Recently Removed Pages moved to disk: 8 12 10 2 4 6 -1 -1 
+Number of page faults: 31
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505947472548 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 1 
+Pages in Memory:	 11 0 14 3 15 9 13 2 
+Recently Removed Pages moved to disk: 8 12 10 1 4 6 -1 -1 
+Number of page faults: 32
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505947472574 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 11 0 14 3 15 9 13 2 
+Recently Removed Pages moved to disk: 8 12 10 1 4 6 -1 -1 
+Number of page faults: 32
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505947472596 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 11 
+Pages in Memory:	 8 0 14 3 15 9 13 2 
+Recently Removed Pages moved to disk: 11 12 10 1 4 6 -1 -1 
+Number of page faults: 33
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505947472629 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 0 14 3 15 9 13 2 
+Recently Removed Pages moved to disk: 11 12 10 1 4 6 -1 -1 
+Number of page faults: 33
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505947472651 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 0 
+Pages in Memory:	 8 1 14 3 15 9 13 2 
+Recently Removed Pages moved to disk: 11 12 10 0 4 6 -1 -1 
+Number of page faults: 34
+
+Next cycle: Current page received/referenced: 11 
+SYSTEM Time: 1647505947472676 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 14 
+Pages in Memory:	 8 1 11 3 15 9 13 2 
+Recently Removed Pages moved to disk: 14 12 10 0 4 6 -1 -1 
+Number of page faults: 35
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505947472704 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 1 11 3 15 9 13 2 
+Recently Removed Pages moved to disk: 14 12 10 0 4 6 -1 -1 
+Number of page faults: 35
+
+Next cycle: Current page received/referenced: 12 
+SYSTEM Time: 1647505947472728 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 3 
+Pages in Memory:	 8 1 11 12 15 9 13 2 
+Recently Removed Pages moved to disk: 14 3 10 0 4 6 -1 -1 
+Number of page faults: 36
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505947472756 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 1 11 12 15 9 13 2 
+Recently Removed Pages moved to disk: 14 3 10 0 4 6 -1 -1 
+Number of page faults: 36
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505947472780 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 1 11 12 15 9 13 2 
+Recently Removed Pages moved to disk: 14 3 10 0 4 6 -1 -1 
+Number of page faults: 36
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505947472806 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 1 11 12 15 9 13 2 
+Recently Removed Pages moved to disk: 14 3 10 0 4 6 -1 -1 
+Number of page faults: 36
+
+Next cycle: Current page received/referenced: 12 
+SYSTEM Time: 1647505947472832 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 1 11 12 15 9 13 2 
+Recently Removed Pages moved to disk: 14 3 10 0 4 6 -1 -1 
+Number of page faults: 36
+
+Next cycle: Current page received/referenced: 0 
+SYSTEM Time: 1647505947472856 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 15 
+Pages in Memory:	 8 1 11 12 0 9 13 2 
+Recently Removed Pages moved to disk: 14 3 10 15 4 6 -1 -1 
+Number of page faults: 37
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505947472885 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 1 11 12 0 9 13 2 
+Recently Removed Pages moved to disk: 14 3 10 15 4 6 -1 -1 
+Number of page faults: 37
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505947472911 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 9 
+Pages in Memory:	 8 1 11 12 0 4 13 2 
+Recently Removed Pages moved to disk: 14 3 10 15 9 6 -1 -1 
+Number of page faults: 38
+
+Next cycle: Current page received/referenced: 10 
+SYSTEM Time: 1647505947472938 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 13 
+Pages in Memory:	 8 1 11 12 0 4 10 2 
+Recently Removed Pages moved to disk: 14 3 13 15 9 6 -1 -1 
+Number of page faults: 39
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505947472968 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 2 
+Pages in Memory:	 8 1 11 12 0 4 10 15 
+Recently Removed Pages moved to disk: 14 3 13 2 9 6 -1 -1 
+Number of page faults: 40
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505947473003 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 1 11 12 0 4 10 15 
+Recently Removed Pages moved to disk: 14 3 13 2 9 6 -1 -1 
+Number of page faults: 40
+
+Next cycle: Current page received/referenced: 5 
+SYSTEM Time: 1647505947473028 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 8 
+Pages in Memory:	 5 1 11 12 0 4 10 15 
+Recently Removed Pages moved to disk: 14 3 13 2 8 6 -1 -1 
+Number of page faults: 41
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505947473051 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 5 1 11 12 0 4 10 15 
+Recently Removed Pages moved to disk: 14 3 13 2 8 6 -1 -1 
+Number of page faults: 41
+
+Next cycle: Current page received/referenced: 13 
+SYSTEM Time: 1647505947473077 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 1 
+Pages in Memory:	 5 13 11 12 0 4 10 15 
+Recently Removed Pages moved to disk: 14 3 1 2 8 6 -1 -1 
+Number of page faults: 42
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505947473106 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 11 
+Pages in Memory:	 5 13 14 12 0 4 10 15 
+Recently Removed Pages moved to disk: 11 3 1 2 8 6 -1 -1 
+Number of page faults: 43
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505947473132 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 12 
+Pages in Memory:	 5 13 14 3 0 4 10 15 
+Recently Removed Pages moved to disk: 11 12 1 2 8 6 -1 -1 
+Number of page faults: 44
+
+Next cycle: Current page received/referenced: 11 
+SYSTEM Time: 1647505947473161 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 0 
+Pages in Memory:	 5 13 14 3 11 4 10 15 
+Recently Removed Pages moved to disk: 0 12 1 2 8 6 -1 -1 
+Number of page faults: 45
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505947473190 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 5 13 14 3 11 4 10 15 
+Recently Removed Pages moved to disk: 0 12 1 2 8 6 -1 -1 
+Number of page faults: 45
+
+Next cycle: Current page received/referenced: 6 
+SYSTEM Time: 1647505947473216 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 4 
+Pages in Memory:	 5 13 14 3 11 6 10 15 
+Recently Removed Pages moved to disk: 0 12 1 2 8 4 -1 -1 
+Number of page faults: 46
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505947473243 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 5 13 14 3 11 6 10 15 
+Recently Removed Pages moved to disk: 0 12 1 2 8 4 -1 -1 
+Number of page faults: 46
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505947473269 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 5 13 14 3 11 6 10 15 
+Recently Removed Pages moved to disk: 0 12 1 2 8 4 -1 -1 
+Number of page faults: 46
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505947473295 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 5 13 14 3 11 6 10 15 
+Recently Removed Pages moved to disk: 0 12 1 2 8 4 -1 -1 
+Number of page faults: 46
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505947473322 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 5 13 14 3 11 6 10 15 
+Recently Removed Pages moved to disk: 0 12 1 2 8 4 -1 -1 
+Number of page faults: 46
+
+Next cycle: Current page received/referenced: 0 
+SYSTEM Time: 1647505947473346 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 10 
+Pages in Memory:	 5 13 14 3 11 6 0 15 
+Recently Removed Pages moved to disk: 10 12 1 2 8 4 -1 -1 
+Number of page faults: 47
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505947473381 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 15 
+Pages in Memory:	 5 13 14 3 11 6 0 1 
+Recently Removed Pages moved to disk: 10 12 15 2 8 4 -1 -1 
+Number of page faults: 48
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505947473408 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 5 13 14 3 11 6 0 1 
+Recently Removed Pages moved to disk: 10 12 15 2 8 4 -1 -1 
+Number of page faults: 48
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505947473432 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 5 
+Pages in Memory:	 8 13 14 3 11 6 0 1 
+Recently Removed Pages moved to disk: 10 12 15 2 5 4 -1 -1 
+Number of page faults: 49
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505947473462 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 13 
+Pages in Memory:	 8 4 14 3 11 6 0 1 
+Recently Removed Pages moved to disk: 10 12 15 2 5 13 -1 -1 
+Number of page faults: 50
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505947473488 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 4 14 3 11 6 0 1 
+Recently Removed Pages moved to disk: 10 12 15 2 5 13 -1 -1 
+Number of page faults: 50
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505947473517 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 4 14 3 11 6 0 1 
+Recently Removed Pages moved to disk: 10 12 15 2 5 13 -1 -1 
+Number of page faults: 50
+
+Next cycle: Current page received/referenced: 6 
+SYSTEM Time: 1647505947473547 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 4 14 3 11 6 0 1 
+Recently Removed Pages moved to disk: 10 12 15 2 5 13 -1 -1 
+Number of page faults: 50
+
+Next cycle: Current page received/referenced: 0 
+SYSTEM Time: 1647505947473572 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 4 14 3 11 6 0 1 
+Recently Removed Pages moved to disk: 10 12 15 2 5 13 -1 -1 
+Number of page faults: 50
+
+Next cycle: Current page received/referenced: 5 
+SYSTEM Time: 1647505947473597 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 14 
+Pages in Memory:	 8 4 5 3 11 6 0 1 
+Recently Removed Pages moved to disk: 10 12 15 2 14 13 -1 -1 
+Number of page faults: 51
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505947473625 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 3 
+Pages in Memory:	 8 4 5 14 11 6 0 1 
+Recently Removed Pages moved to disk: 10 12 15 2 3 13 -1 -1 
+Number of page faults: 52
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505947473652 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 4 5 14 11 6 0 1 
+Recently Removed Pages moved to disk: 10 12 15 2 3 13 -1 -1 
+Number of page faults: 52
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505947473678 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 4 5 14 11 6 0 1 
+Recently Removed Pages moved to disk: 10 12 15 2 3 13 -1 -1 
+Number of page faults: 52
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505947473703 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 4 5 14 11 6 0 1 
+Recently Removed Pages moved to disk: 10 12 15 2 3 13 -1 -1 
+Number of page faults: 52
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505947473729 microseconds 
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 11 
+Pages in Memory:	 8 4 5 14 3 6 0 1 
+Recently Removed Pages moved to disk: 10 12 15 2 11 13 -1 -1 
+Number of page faults: 53
+
+Next cycle: Current page received/referenced: 5 
+SYSTEM Time: 1647505947473755 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 4 5 14 3 6 0 1 
+Recently Removed Pages moved to disk: 10 12 15 2 11 13 -1 -1 
+Number of page faults: 53
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505947473792 microseconds 
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 4 5 14 3 6 0 1 
+Recently Removed Pages moved to disk: 10 12 15 2 11 13 -1 -1 
+Number of page faults: 53
+
+Total number of page faults: 53 
+
+***********************User chose frame size of 8 pages***********************
+
+
+
+
+******************************Running LRU algorithm******************************
+
+ '-1' indicates an empty frame
+
+Initial conditions: 
+Pages in Memory: 	-1 -1 -1 -1 -1 -1 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+
+
+Next cycle: Current page received/referenced: 6 
+SYSTEM Time: 1647505951151219 microseconds
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 -1 -1 -1 -1 -1 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults till now: 1
+
+Next cycle: Current page received/referenced: 9 
+SYSTEM Time: 1647505951151255 microseconds
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 -1 -1 -1 -1 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults till now: 2
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505951151291 microseconds
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 4 -1 -1 -1 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults till now: 3
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505951151322 microseconds
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 4 2 -1 -1 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults till now: 4
+
+Next cycle: Current page received/referenced: 12 
+SYSTEM Time: 1647505951151355 microseconds
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 4 2 12 -1 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults till now: 5
+
+Next cycle: Current page received/referenced: 13 
+SYSTEM Time: 1647505951151388 microseconds
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 4 2 12 13 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults till now: 6
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505951151421 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 9 4 2 12 13 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults till now: 6
+
+Next cycle: Current page received/referenced: 12 
+SYSTEM Time: 1647505951151451 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 9 4 2 12 13 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults till now: 6
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505951151482 microseconds
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 4 2 12 13 3 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults till now: 7
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505951151514 microseconds
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults till now: 8
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505951151546 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 9 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults till now: 8
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505951151577 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 9 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults till now: 8
+
+Next cycle: Current page received/referenced: 13 
+SYSTEM Time: 1647505951151654 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 9 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults till now: 8
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505951151669 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 9 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults till now: 8
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505951151685 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 6 
+Pages in Memory:	 15 9 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: 6 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults till now: 9
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505951151702 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 9 
+Pages in Memory:	 15 14 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: 6 9 -1 -1 -1 -1 -1 -1 
+Number of page faults till now: 10
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505951151719 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 14 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: 6 9 -1 -1 -1 -1 -1 -1 
+Number of page faults till now: 10
+
+Next cycle: Current page received/referenced: 5 
+SYSTEM Time: 1647505951151734 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 2 
+Pages in Memory:	 15 14 4 5 12 13 3 1 
+Recently Removed Pages moved to disk: 6 9 2 -1 -1 -1 -1 -1 
+Number of page faults till now: 11
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505951151751 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 12 
+Pages in Memory:	 15 14 4 5 8 13 3 1 
+Recently Removed Pages moved to disk: 6 9 2 12 -1 -1 -1 -1 
+Number of page faults till now: 12
+
+Next cycle: Current page received/referenced: 5 
+SYSTEM Time: 1647505951151767 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 14 4 5 8 13 3 1 
+Recently Removed Pages moved to disk: 6 9 2 12 -1 -1 -1 -1 
+Number of page faults till now: 12
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505951151797 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 14 4 5 8 13 3 1 
+Recently Removed Pages moved to disk: 6 9 2 12 -1 -1 -1 -1 
+Number of page faults till now: 12
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505951151812 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 14 4 5 8 13 3 1 
+Recently Removed Pages moved to disk: 6 9 2 12 -1 -1 -1 -1 
+Number of page faults till now: 12
+
+Next cycle: Current page received/referenced: 9 
+SYSTEM Time: 1647505951151835 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 1 
+Pages in Memory:	 15 14 4 5 8 13 3 9 
+Recently Removed Pages moved to disk: 6 1 2 12 -1 -1 -1 -1 
+Number of page faults till now: 13
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505951151868 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 3 
+Pages in Memory:	 15 14 4 5 8 13 2 9 
+Recently Removed Pages moved to disk: 6 1 3 12 -1 -1 -1 -1 
+Number of page faults till now: 14
+
+Next cycle: Current page received/referenced: 11 
+SYSTEM Time: 1647505951151891 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 13 
+Pages in Memory:	 15 14 4 5 8 11 2 9 
+Recently Removed Pages moved to disk: 6 1 3 13 -1 -1 -1 -1 
+Number of page faults till now: 15
+
+Next cycle: Current page received/referenced: 0 
+SYSTEM Time: 1647505951151907 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 4 
+Pages in Memory:	 15 14 0 5 8 11 2 9 
+Recently Removed Pages moved to disk: 6 1 3 13 4 -1 -1 -1 
+Number of page faults till now: 16
+
+Next cycle: Current page received/referenced: 13 
+SYSTEM Time: 1647505951151934 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 15 
+Pages in Memory:	 13 14 0 5 8 11 2 9 
+Recently Removed Pages moved to disk: 6 1 3 15 4 -1 -1 -1 
+Number of page faults till now: 17
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505951151951 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 8 
+Pages in Memory:	 13 14 0 5 3 11 2 9 
+Recently Removed Pages moved to disk: 6 1 8 15 4 -1 -1 -1 
+Number of page faults till now: 18
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505951151967 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 5 
+Pages in Memory:	 13 14 0 15 3 11 2 9 
+Recently Removed Pages moved to disk: 6 1 8 5 4 -1 -1 -1 
+Number of page faults till now: 19
+
+Next cycle: Current page received/referenced: 11 
+SYSTEM Time: 1647505951151984 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 13 14 0 15 3 11 2 9 
+Recently Removed Pages moved to disk: 6 1 8 5 4 -1 -1 -1 
+Number of page faults till now: 19
+
+Next cycle: Current page received/referenced: 6 
+SYSTEM Time: 1647505951152007 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 14 
+Pages in Memory:	 13 6 0 15 3 11 2 9 
+Recently Removed Pages moved to disk: 14 1 8 5 4 -1 -1 -1 
+Number of page faults till now: 20
+
+Next cycle: Current page received/referenced: 6 
+SYSTEM Time: 1647505951152031 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 13 6 0 15 3 11 2 9 
+Recently Removed Pages moved to disk: 14 1 8 5 4 -1 -1 -1 
+Number of page faults till now: 20
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505951152055 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 9 
+Pages in Memory:	 13 6 0 15 3 11 2 4 
+Recently Removed Pages moved to disk: 14 1 8 5 9 -1 -1 -1 
+Number of page faults till now: 21
+
+Next cycle: Current page received/referenced: 10 
+SYSTEM Time: 1647505951152088 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 2 
+Pages in Memory:	 13 6 0 15 3 11 10 4 
+Recently Removed Pages moved to disk: 14 1 8 5 9 2 -1 -1 
+Number of page faults till now: 22
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505951152120 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 0 
+Pages in Memory:	 13 6 8 15 3 11 10 4 
+Recently Removed Pages moved to disk: 14 1 0 5 9 2 -1 -1 
+Number of page faults till now: 23
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505951152153 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 13 
+Pages in Memory:	 1 6 8 15 3 11 10 4 
+Recently Removed Pages moved to disk: 14 13 0 5 9 2 -1 -1 
+Number of page faults till now: 24
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505951152186 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 1 6 8 15 3 11 10 4 
+Recently Removed Pages moved to disk: 14 13 0 5 9 2 -1 -1 
+Number of page faults till now: 24
+
+Next cycle: Current page received/referenced: 10 
+SYSTEM Time: 1647505951152215 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 1 6 8 15 3 11 10 4 
+Recently Removed Pages moved to disk: 14 13 0 5 9 2 -1 -1 
+Number of page faults till now: 24
+
+Next cycle: Current page received/referenced: 13 
+SYSTEM Time: 1647505951152245 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 3 
+Pages in Memory:	 1 6 8 15 13 11 10 4 
+Recently Removed Pages moved to disk: 14 3 0 5 9 2 -1 -1 
+Number of page faults till now: 25
+
+Next cycle: Current page received/referenced: 11 
+SYSTEM Time: 1647505951152277 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 1 6 8 15 13 11 10 4 
+Recently Removed Pages moved to disk: 14 3 0 5 9 2 -1 -1 
+Number of page faults till now: 25
+
+Next cycle: Current page received/referenced: 11 
+SYSTEM Time: 1647505951152314 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 1 6 8 15 13 11 10 4 
+Recently Removed Pages moved to disk: 14 3 0 5 9 2 -1 -1 
+Number of page faults till now: 25
+
+Next cycle: Current page received/referenced: 0 
+SYSTEM Time: 1647505951152337 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 15 
+Pages in Memory:	 1 6 8 0 13 11 10 4 
+Recently Removed Pages moved to disk: 14 3 15 5 9 2 -1 -1 
+Number of page faults till now: 26
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505951152361 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 6 
+Pages in Memory:	 1 14 8 0 13 11 10 4 
+Recently Removed Pages moved to disk: 6 3 15 5 9 2 -1 -1 
+Number of page faults till now: 27
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505951152392 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 1 14 8 0 13 11 10 4 
+Recently Removed Pages moved to disk: 6 3 15 5 9 2 -1 -1 
+Number of page faults till now: 27
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505951152456 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 1 14 8 0 13 11 10 4 
+Recently Removed Pages moved to disk: 6 3 15 5 9 2 -1 -1 
+Number of page faults till now: 27
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505951152481 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 1 14 8 0 13 11 10 4 
+Recently Removed Pages moved to disk: 6 3 15 5 9 2 -1 -1 
+Number of page faults till now: 27
+
+Next cycle: Current page received/referenced: 6 
+SYSTEM Time: 1647505951152511 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 1 
+Pages in Memory:	 6 14 8 0 13 11 10 4 
+Recently Removed Pages moved to disk: 1 3 15 5 9 2 -1 -1 
+Number of page faults till now: 28
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505951152571 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 10 
+Pages in Memory:	 6 14 8 0 13 11 3 4 
+Recently Removed Pages moved to disk: 1 10 15 5 9 2 -1 -1 
+Number of page faults till now: 29
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505951152618 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 14 8 0 13 11 3 4 
+Recently Removed Pages moved to disk: 1 10 15 5 9 2 -1 -1 
+Number of page faults till now: 29
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505951152649 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 13 
+Pages in Memory:	 6 14 8 0 15 11 3 4 
+Recently Removed Pages moved to disk: 1 10 13 5 9 2 -1 -1 
+Number of page faults till now: 30
+
+Next cycle: Current page received/referenced: 9 
+SYSTEM Time: 1647505951152681 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 11 
+Pages in Memory:	 6 14 8 0 15 9 3 4 
+Recently Removed Pages moved to disk: 1 10 13 5 11 2 -1 -1 
+Number of page faults till now: 31
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505951152706 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 0 
+Pages in Memory:	 6 14 8 1 15 9 3 4 
+Recently Removed Pages moved to disk: 0 10 13 5 11 2 -1 -1 
+Number of page faults till now: 32
+
+Next cycle: Current page received/referenced: 13 
+SYSTEM Time: 1647505951152739 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 8 
+Pages in Memory:	 6 14 13 1 15 9 3 4 
+Recently Removed Pages moved to disk: 0 10 8 5 11 2 -1 -1 
+Number of page faults till now: 33
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505951152771 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 4 
+Pages in Memory:	 6 14 13 1 15 9 3 2 
+Recently Removed Pages moved to disk: 0 10 8 5 11 4 -1 -1 
+Number of page faults till now: 34
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505951152814 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 14 13 1 15 9 3 2 
+Recently Removed Pages moved to disk: 0 10 8 5 11 4 -1 -1 
+Number of page faults till now: 34
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505951152843 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 14 
+Pages in Memory:	 6 8 13 1 15 9 3 2 
+Recently Removed Pages moved to disk: 0 10 14 5 11 4 -1 -1 
+Number of page faults till now: 35
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505951152875 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 8 13 1 15 9 3 2 
+Recently Removed Pages moved to disk: 0 10 14 5 11 4 -1 -1 
+Number of page faults till now: 35
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505951152897 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 8 13 1 15 9 3 2 
+Recently Removed Pages moved to disk: 0 10 14 5 11 4 -1 -1 
+Number of page faults till now: 35
+
+Next cycle: Current page received/referenced: 11 
+SYSTEM Time: 1647505951152929 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 6 
+Pages in Memory:	 11 8 13 1 15 9 3 2 
+Recently Removed Pages moved to disk: 0 10 14 5 6 4 -1 -1 
+Number of page faults till now: 36
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505951152961 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 11 8 13 1 15 9 3 2 
+Recently Removed Pages moved to disk: 0 10 14 5 6 4 -1 -1 
+Number of page faults till now: 36
+
+Next cycle: Current page received/referenced: 12 
+SYSTEM Time: 1647505951152994 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 15 
+Pages in Memory:	 11 8 13 1 12 9 3 2 
+Recently Removed Pages moved to disk: 0 10 14 5 6 15 -1 -1 
+Number of page faults till now: 37
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505951153026 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 11 8 13 1 12 9 3 2 
+Recently Removed Pages moved to disk: 0 10 14 5 6 15 -1 -1 
+Number of page faults till now: 37
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505951153053 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 11 8 13 1 12 9 3 2 
+Recently Removed Pages moved to disk: 0 10 14 5 6 15 -1 -1 
+Number of page faults till now: 37
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505951153082 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 11 8 13 1 12 9 3 2 
+Recently Removed Pages moved to disk: 0 10 14 5 6 15 -1 -1 
+Number of page faults till now: 37
+
+Next cycle: Current page received/referenced: 12 
+SYSTEM Time: 1647505951153097 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 11 8 13 1 12 9 3 2 
+Recently Removed Pages moved to disk: 0 10 14 5 6 15 -1 -1 
+Number of page faults till now: 37
+
+Next cycle: Current page received/referenced: 0 
+SYSTEM Time: 1647505951153126 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 9 
+Pages in Memory:	 11 8 13 1 12 0 3 2 
+Recently Removed Pages moved to disk: 9 10 14 5 6 15 -1 -1 
+Number of page faults till now: 38
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505951153152 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 11 8 13 1 12 0 3 2 
+Recently Removed Pages moved to disk: 9 10 14 5 6 15 -1 -1 
+Number of page faults till now: 38
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505951153175 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 13 
+Pages in Memory:	 11 8 4 1 12 0 3 2 
+Recently Removed Pages moved to disk: 9 13 14 5 6 15 -1 -1 
+Number of page faults till now: 39
+
+Next cycle: Current page received/referenced: 10 
+SYSTEM Time: 1647505951153214 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 3 
+Pages in Memory:	 11 8 4 1 12 0 10 2 
+Recently Removed Pages moved to disk: 9 13 3 5 6 15 -1 -1 
+Number of page faults till now: 40
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505951153239 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 11 
+Pages in Memory:	 15 8 4 1 12 0 10 2 
+Recently Removed Pages moved to disk: 9 13 3 5 6 11 -1 -1 
+Number of page faults till now: 41
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505951153266 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 8 4 1 12 0 10 2 
+Recently Removed Pages moved to disk: 9 13 3 5 6 11 -1 -1 
+Number of page faults till now: 41
+
+Next cycle: Current page received/referenced: 5 
+SYSTEM Time: 1647505951153289 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 8 
+Pages in Memory:	 15 5 4 1 12 0 10 2 
+Recently Removed Pages moved to disk: 9 13 3 8 6 11 -1 -1 
+Number of page faults till now: 42
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505951153319 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 5 4 1 12 0 10 2 
+Recently Removed Pages moved to disk: 9 13 3 8 6 11 -1 -1 
+Number of page faults till now: 42
+
+Next cycle: Current page received/referenced: 13 
+SYSTEM Time: 1647505951153341 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 1 
+Pages in Memory:	 15 5 4 13 12 0 10 2 
+Recently Removed Pages moved to disk: 9 1 3 8 6 11 -1 -1 
+Number of page faults till now: 43
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505951153374 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 12 
+Pages in Memory:	 15 5 4 13 14 0 10 2 
+Recently Removed Pages moved to disk: 9 1 12 8 6 11 -1 -1 
+Number of page faults till now: 44
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505951153407 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 0 
+Pages in Memory:	 15 5 4 13 14 3 10 2 
+Recently Removed Pages moved to disk: 9 1 12 0 6 11 -1 -1 
+Number of page faults till now: 45
+
+Next cycle: Current page received/referenced: 11 
+SYSTEM Time: 1647505951153441 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 2 
+Pages in Memory:	 15 5 4 13 14 3 10 11 
+Recently Removed Pages moved to disk: 9 1 12 0 6 2 -1 -1 
+Number of page faults till now: 46
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505951153472 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 5 4 13 14 3 10 11 
+Recently Removed Pages moved to disk: 9 1 12 0 6 2 -1 -1 
+Number of page faults till now: 46
+
+Next cycle: Current page received/referenced: 6 
+SYSTEM Time: 1647505951153503 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 10 
+Pages in Memory:	 15 5 4 13 14 3 6 11 
+Recently Removed Pages moved to disk: 9 1 12 0 10 2 -1 -1 
+Number of page faults till now: 47
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505951153535 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 5 4 13 14 3 6 11 
+Recently Removed Pages moved to disk: 9 1 12 0 10 2 -1 -1 
+Number of page faults till now: 47
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505951153565 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 5 4 13 14 3 6 11 
+Recently Removed Pages moved to disk: 9 1 12 0 10 2 -1 -1 
+Number of page faults till now: 47
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505951153587 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 5 4 13 14 3 6 11 
+Recently Removed Pages moved to disk: 9 1 12 0 10 2 -1 -1 
+Number of page faults till now: 47
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505951153624 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 5 4 13 14 3 6 11 
+Recently Removed Pages moved to disk: 9 1 12 0 10 2 -1 -1 
+Number of page faults till now: 47
+
+Next cycle: Current page received/referenced: 0 
+SYSTEM Time: 1647505951153653 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 5 
+Pages in Memory:	 15 0 4 13 14 3 6 11 
+Recently Removed Pages moved to disk: 9 1 12 5 10 2 -1 -1 
+Number of page faults till now: 48
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505951153678 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 13 
+Pages in Memory:	 15 0 4 1 14 3 6 11 
+Recently Removed Pages moved to disk: 9 13 12 5 10 2 -1 -1 
+Number of page faults till now: 49
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505951153709 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 0 4 1 14 3 6 11 
+Recently Removed Pages moved to disk: 9 13 12 5 10 2 -1 -1 
+Number of page faults till now: 49
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505951153739 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 11 
+Pages in Memory:	 15 0 4 1 14 3 6 8 
+Recently Removed Pages moved to disk: 9 13 11 5 10 2 -1 -1 
+Number of page faults till now: 50
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505951153771 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 0 4 1 14 3 6 8 
+Recently Removed Pages moved to disk: 9 13 11 5 10 2 -1 -1 
+Number of page faults till now: 50
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505951153801 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 0 4 1 14 3 6 8 
+Recently Removed Pages moved to disk: 9 13 11 5 10 2 -1 -1 
+Number of page faults till now: 50
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505951153824 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 0 4 1 14 3 6 8 
+Recently Removed Pages moved to disk: 9 13 11 5 10 2 -1 -1 
+Number of page faults till now: 50
+
+Next cycle: Current page received/referenced: 6 
+SYSTEM Time: 1647505951153853 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 0 4 1 14 3 6 8 
+Recently Removed Pages moved to disk: 9 13 11 5 10 2 -1 -1 
+Number of page faults till now: 50
+
+Next cycle: Current page received/referenced: 0 
+SYSTEM Time: 1647505951153887 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 0 4 1 14 3 6 8 
+Recently Removed Pages moved to disk: 9 13 11 5 10 2 -1 -1 
+Number of page faults till now: 50
+
+Next cycle: Current page received/referenced: 5 
+SYSTEM Time: 1647505951153919 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 14 
+Pages in Memory:	 15 0 4 1 5 3 6 8 
+Recently Removed Pages moved to disk: 9 13 11 14 10 2 -1 -1 
+Number of page faults till now: 51
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505951153953 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 15 
+Pages in Memory:	 14 0 4 1 5 3 6 8 
+Recently Removed Pages moved to disk: 9 13 11 15 10 2 -1 -1 
+Number of page faults till now: 52
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505951153984 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 14 0 4 1 5 3 6 8 
+Recently Removed Pages moved to disk: 9 13 11 15 10 2 -1 -1 
+Number of page faults till now: 52
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505951154015 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 14 0 4 1 5 3 6 8 
+Recently Removed Pages moved to disk: 9 13 11 15 10 2 -1 -1 
+Number of page faults till now: 52
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505951154054 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 14 0 4 1 5 3 6 8 
+Recently Removed Pages moved to disk: 9 13 11 15 10 2 -1 -1 
+Number of page faults till now: 52
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505951154077 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 14 0 4 1 5 3 6 8 
+Recently Removed Pages moved to disk: 9 13 11 15 10 2 -1 -1 
+Number of page faults till now: 52
+
+Next cycle: Current page received/referenced: 5 
+SYSTEM Time: 1647505951154107 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 14 0 4 1 5 3 6 8 
+Recently Removed Pages moved to disk: 9 13 11 15 10 2 -1 -1 
+Number of page faults till now: 52
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505951154137 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 14 0 4 1 5 3 6 8 
+Recently Removed Pages moved to disk: 9 13 11 15 10 2 -1 -1 
+Number of page faults till now: 52
+
+Total number of page faults: 52 
+
+***********************User chose frame size of 8 pages***********************
+
+
+
+
+******************************Running Second Chance******************************
+
+ '-1' indicates an empty frame
+
+Initial conditions: 
+Pages in Memory: 	-1 -1 -1 -1 -1 -1 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+
+
+Next cycle: Current page received/referenced: 6 
+SYSTEM Time: 1647505956301253 microseconds
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 -1 -1 -1 -1 -1 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 1
+
+
+Next cycle: Current page received/referenced: 9 
+SYSTEM Time: 1647505956301291 microseconds
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 -1 -1 -1 -1 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 2
+
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505956301327 microseconds
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 4 -1 -1 -1 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 3
+
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505956301359 microseconds
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 4 2 -1 -1 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 4
+
+
+Next cycle: Current page received/referenced: 12 
+SYSTEM Time: 1647505956301386 microseconds
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 4 2 12 -1 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 5
+
+
+Next cycle: Current page received/referenced: 13 
+SYSTEM Time: 1647505956301420 microseconds
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 4 2 12 13 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 6
+
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505956301472 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 9 4 2 12 13 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 6
+
+
+Next cycle: Current page received/referenced: 12 
+SYSTEM Time: 1647505956301503 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 9 4 2 12 13 -1 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 6
+
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505956301518 microseconds
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 4 2 12 13 3 -1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 7
+
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505956301545 microseconds
+Page Fault occurred as Page is not present in memory
+Slots were available in memory so no page was replaced
+Pages in Memory:	 6 9 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 8
+
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505956301597 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 9 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 8
+
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505956301630 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 9 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 8
+
+
+Next cycle: Current page received/referenced: 13 
+SYSTEM Time: 1647505956301655 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 9 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 8
+
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505956301726 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 6 9 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: -1 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 8
+
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505956301752 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 6 
+Pages in Memory:	 15 9 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: 6 -1 -1 -1 -1 -1 -1 -1 
+Number of page faults: 9
+
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505956301787 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 9 
+Pages in Memory:	 15 14 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: 6 9 -1 -1 -1 -1 -1 -1 
+Number of page faults: 10
+
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505956301820 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 14 4 2 12 13 3 1 
+Recently Removed Pages moved to disk: 6 9 -1 -1 -1 -1 -1 -1 
+Number of page faults: 10
+
+
+Next cycle: Current page received/referenced: 5 
+SYSTEM Time: 1647505956301852 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 1 
+Pages in Memory:	 15 14 4 2 12 13 3 5 
+Recently Removed Pages moved to disk: 6 9 1 -1 -1 -1 -1 -1 
+Number of page faults: 11
+
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505956301880 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 14 
+Pages in Memory:	 15 8 4 2 12 13 3 5 
+Recently Removed Pages moved to disk: 6 9 1 14 -1 -1 -1 -1 
+Number of page faults: 12
+
+
+Next cycle: Current page received/referenced: 5 
+SYSTEM Time: 1647505956301915 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 8 4 2 12 13 3 5 
+Recently Removed Pages moved to disk: 6 9 1 14 -1 -1 -1 -1 
+Number of page faults: 12
+
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505956301942 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 4 
+Pages in Memory:	 15 8 14 2 12 13 3 5 
+Recently Removed Pages moved to disk: 6 9 1 4 -1 -1 -1 -1 
+Number of page faults: 13
+
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505956301974 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 15 8 14 2 12 13 3 5 
+Recently Removed Pages moved to disk: 6 9 1 4 -1 -1 -1 -1 
+Number of page faults: 13
+
+
+Next cycle: Current page received/referenced: 9 
+SYSTEM Time: 1647505956302005 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 2 
+Pages in Memory:	 15 8 14 9 12 13 3 5 
+Recently Removed Pages moved to disk: 6 2 1 4 -1 -1 -1 -1 
+Number of page faults: 14
+
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505956302032 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 12 
+Pages in Memory:	 15 8 14 9 2 13 3 5 
+Recently Removed Pages moved to disk: 6 12 1 4 -1 -1 -1 -1 
+Number of page faults: 15
+
+
+Next cycle: Current page received/referenced: 11 
+SYSTEM Time: 1647505956302066 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 13 
+Pages in Memory:	 15 8 14 9 2 11 3 5 
+Recently Removed Pages moved to disk: 6 12 13 4 -1 -1 -1 -1 
+Number of page faults: 16
+
+
+Next cycle: Current page received/referenced: 0 
+SYSTEM Time: 1647505956302123 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 3 
+Pages in Memory:	 15 8 14 9 2 11 0 5 
+Recently Removed Pages moved to disk: 6 12 13 3 -1 -1 -1 -1 
+Number of page faults: 17
+
+
+Next cycle: Current page received/referenced: 13 
+SYSTEM Time: 1647505956302142 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 15 
+Pages in Memory:	 13 8 14 9 2 11 0 5 
+Recently Removed Pages moved to disk: 6 12 15 3 -1 -1 -1 -1 
+Number of page faults: 18
+
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505956302171 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 8 
+Pages in Memory:	 13 3 14 9 2 11 0 5 
+Recently Removed Pages moved to disk: 6 12 15 8 -1 -1 -1 -1 
+Number of page faults: 19
+
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505956302191 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 9 
+Pages in Memory:	 13 3 14 15 2 11 0 5 
+Recently Removed Pages moved to disk: 6 12 9 8 -1 -1 -1 -1 
+Number of page faults: 20
+
+
+Next cycle: Current page received/referenced: 11 
+SYSTEM Time: 1647505956302258 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 13 3 14 15 2 11 0 5 
+Recently Removed Pages moved to disk: 6 12 9 8 -1 -1 -1 -1 
+Number of page faults: 20
+
+
+Next cycle: Current page received/referenced: 6 
+SYSTEM Time: 1647505956302304 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 2 
+Pages in Memory:	 13 3 14 15 6 11 0 5 
+Recently Removed Pages moved to disk: 2 12 9 8 -1 -1 -1 -1 
+Number of page faults: 21
+
+
+Next cycle: Current page received/referenced: 6 
+SYSTEM Time: 1647505956302358 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 13 3 14 15 6 11 0 5 
+Recently Removed Pages moved to disk: 2 12 9 8 -1 -1 -1 -1 
+Number of page faults: 21
+
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505956302404 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 0 
+Pages in Memory:	 13 3 14 15 6 11 4 5 
+Recently Removed Pages moved to disk: 2 0 9 8 -1 -1 -1 -1 
+Number of page faults: 22
+
+
+Next cycle: Current page received/referenced: 10 
+SYSTEM Time: 1647505956302442 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 5 
+Pages in Memory:	 13 3 14 15 6 11 4 10 
+Recently Removed Pages moved to disk: 2 0 5 8 -1 -1 -1 -1 
+Number of page faults: 23
+
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505956302477 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 13 
+Pages in Memory:	 8 3 14 15 6 11 4 10 
+Recently Removed Pages moved to disk: 2 0 5 13 -1 -1 -1 -1 
+Number of page faults: 24
+
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505956302510 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 3 
+Pages in Memory:	 8 1 14 15 6 11 4 10 
+Recently Removed Pages moved to disk: 2 0 5 13 3 -1 -1 -1 
+Number of page faults: 25
+
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505956302544 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 1 14 15 6 11 4 10 
+Recently Removed Pages moved to disk: 2 0 5 13 3 -1 -1 -1 
+Number of page faults: 25
+
+
+Next cycle: Current page received/referenced: 10 
+SYSTEM Time: 1647505956302568 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 1 14 15 6 11 4 10 
+Recently Removed Pages moved to disk: 2 0 5 13 3 -1 -1 -1 
+Number of page faults: 25
+
+
+Next cycle: Current page received/referenced: 13 
+SYSTEM Time: 1647505956302594 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 14 
+Pages in Memory:	 8 1 13 15 6 11 4 10 
+Recently Removed Pages moved to disk: 2 0 5 14 3 -1 -1 -1 
+Number of page faults: 26
+
+
+Next cycle: Current page received/referenced: 11 
+SYSTEM Time: 1647505956302629 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 1 13 15 6 11 4 10 
+Recently Removed Pages moved to disk: 2 0 5 14 3 -1 -1 -1 
+Number of page faults: 26
+
+
+Next cycle: Current page received/referenced: 11 
+SYSTEM Time: 1647505956302662 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 1 13 15 6 11 4 10 
+Recently Removed Pages moved to disk: 2 0 5 14 3 -1 -1 -1 
+Number of page faults: 26
+
+
+Next cycle: Current page received/referenced: 0 
+SYSTEM Time: 1647505956302709 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 15 
+Pages in Memory:	 8 1 13 0 6 11 4 10 
+Recently Removed Pages moved to disk: 2 15 5 14 3 -1 -1 -1 
+Number of page faults: 27
+
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505956302744 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 4 
+Pages in Memory:	 8 1 13 0 6 11 14 10 
+Recently Removed Pages moved to disk: 2 15 5 4 3 -1 -1 -1 
+Number of page faults: 28
+
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505956302772 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 1 13 0 6 11 14 10 
+Recently Removed Pages moved to disk: 2 15 5 4 3 -1 -1 -1 
+Number of page faults: 28
+
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505956302807 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 1 
+Pages in Memory:	 8 4 13 0 6 11 14 10 
+Recently Removed Pages moved to disk: 2 15 5 1 3 -1 -1 -1 
+Number of page faults: 29
+
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505956302841 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 4 13 0 6 11 14 10 
+Recently Removed Pages moved to disk: 2 15 5 1 3 -1 -1 -1 
+Number of page faults: 29
+
+
+Next cycle: Current page received/referenced: 6 
+SYSTEM Time: 1647505956302866 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 4 13 0 6 11 14 10 
+Recently Removed Pages moved to disk: 2 15 5 1 3 -1 -1 -1 
+Number of page faults: 29
+
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505956302900 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 13 
+Pages in Memory:	 8 4 3 0 6 11 14 10 
+Recently Removed Pages moved to disk: 2 15 5 1 13 -1 -1 -1 
+Number of page faults: 30
+
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505956302937 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 8 4 3 0 6 11 14 10 
+Recently Removed Pages moved to disk: 2 15 5 1 13 -1 -1 -1 
+Number of page faults: 30
+
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505956302963 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 0 
+Pages in Memory:	 8 4 3 15 6 11 14 10 
+Recently Removed Pages moved to disk: 2 0 5 1 13 -1 -1 -1 
+Number of page faults: 31
+
+
+Next cycle: Current page received/referenced: 9 
+SYSTEM Time: 1647505956302996 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 11 
+Pages in Memory:	 8 4 3 15 6 9 14 10 
+Recently Removed Pages moved to disk: 2 0 11 1 13 -1 -1 -1 
+Number of page faults: 32
+
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505956303029 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 10 
+Pages in Memory:	 8 4 3 15 6 9 14 1 
+Recently Removed Pages moved to disk: 2 0 11 10 13 -1 -1 -1 
+Number of page faults: 33
+
+
+Next cycle: Current page received/referenced: 13 
+SYSTEM Time: 1647505956303063 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 8 
+Pages in Memory:	 13 4 3 15 6 9 14 1 
+Recently Removed Pages moved to disk: 2 0 11 10 8 -1 -1 -1 
+Number of page faults: 34
+
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505956303098 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 4 
+Pages in Memory:	 13 2 3 15 6 9 14 1 
+Recently Removed Pages moved to disk: 4 0 11 10 8 -1 -1 -1 
+Number of page faults: 35
+
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505956303131 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 13 2 3 15 6 9 14 1 
+Recently Removed Pages moved to disk: 4 0 11 10 8 -1 -1 -1 
+Number of page faults: 35
+
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505956303171 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 15 
+Pages in Memory:	 13 2 3 8 6 9 14 1 
+Recently Removed Pages moved to disk: 4 0 11 10 15 -1 -1 -1 
+Number of page faults: 36
+
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505956303204 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 13 2 3 8 6 9 14 1 
+Recently Removed Pages moved to disk: 4 0 11 10 15 -1 -1 -1 
+Number of page faults: 36
+
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505956303232 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 13 2 3 8 6 9 14 1 
+Recently Removed Pages moved to disk: 4 0 11 10 15 -1 -1 -1 
+Number of page faults: 36
+
+
+Next cycle: Current page received/referenced: 11 
+SYSTEM Time: 1647505956303263 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 6 
+Pages in Memory:	 13 2 3 8 11 9 14 1 
+Recently Removed Pages moved to disk: 4 0 6 10 15 -1 -1 -1 
+Number of page faults: 37
+
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505956303297 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 13 2 3 8 11 9 14 1 
+Recently Removed Pages moved to disk: 4 0 6 10 15 -1 -1 -1 
+Number of page faults: 37
+
+
+Next cycle: Current page received/referenced: 12 
+SYSTEM Time: 1647505956303331 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 9 
+Pages in Memory:	 13 2 3 8 11 12 14 1 
+Recently Removed Pages moved to disk: 4 0 6 9 15 -1 -1 -1 
+Number of page faults: 38
+
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505956303364 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 13 2 3 8 11 12 14 1 
+Recently Removed Pages moved to disk: 4 0 6 9 15 -1 -1 -1 
+Number of page faults: 38
+
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505956303389 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 13 2 3 8 11 12 14 1 
+Recently Removed Pages moved to disk: 4 0 6 9 15 -1 -1 -1 
+Number of page faults: 38
+
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505956303421 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 13 2 3 8 11 12 14 1 
+Recently Removed Pages moved to disk: 4 0 6 9 15 -1 -1 -1 
+Number of page faults: 38
+
+
+Next cycle: Current page received/referenced: 12 
+SYSTEM Time: 1647505956303445 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 13 2 3 8 11 12 14 1 
+Recently Removed Pages moved to disk: 4 0 6 9 15 -1 -1 -1 
+Number of page faults: 38
+
+
+Next cycle: Current page received/referenced: 0 
+SYSTEM Time: 1647505956303478 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 14 
+Pages in Memory:	 13 2 3 8 11 12 0 1 
+Recently Removed Pages moved to disk: 4 14 6 9 15 -1 -1 -1 
+Number of page faults: 39
+
+
+Next cycle: Current page received/referenced: 2 
+SYSTEM Time: 1647505956303510 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 13 2 3 8 11 12 0 1 
+Recently Removed Pages moved to disk: 4 14 6 9 15 -1 -1 -1 
+Number of page faults: 39
+
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505956303543 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 13 
+Pages in Memory:	 4 2 3 8 11 12 0 1 
+Recently Removed Pages moved to disk: 13 14 6 9 15 -1 -1 -1 
+Number of page faults: 40
+
+
+Next cycle: Current page received/referenced: 10 
+SYSTEM Time: 1647505956303576 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 3 
+Pages in Memory:	 4 2 10 8 11 12 0 1 
+Recently Removed Pages moved to disk: 13 3 6 9 15 -1 -1 -1 
+Number of page faults: 41
+
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505956303608 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 11 
+Pages in Memory:	 4 2 10 8 15 12 0 1 
+Recently Removed Pages moved to disk: 13 3 6 9 11 -1 -1 -1 
+Number of page faults: 42
+
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505956303650 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 4 2 10 8 15 12 0 1 
+Recently Removed Pages moved to disk: 13 3 6 9 11 -1 -1 -1 
+Number of page faults: 42
+
+
+Next cycle: Current page received/referenced: 5 
+SYSTEM Time: 1647505956303676 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 0 
+Pages in Memory:	 4 2 10 8 15 12 5 1 
+Recently Removed Pages moved to disk: 13 3 6 9 11 0 -1 -1 
+Number of page faults: 43
+
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505956303711 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 4 2 10 8 15 12 5 1 
+Recently Removed Pages moved to disk: 13 3 6 9 11 0 -1 -1 
+Number of page faults: 43
+
+
+Next cycle: Current page received/referenced: 13 
+SYSTEM Time: 1647505956303736 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 1 
+Pages in Memory:	 4 2 10 8 15 12 5 13 
+Recently Removed Pages moved to disk: 1 3 6 9 11 0 -1 -1 
+Number of page faults: 44
+
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505956303769 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 4 
+Pages in Memory:	 14 2 10 8 15 12 5 13 
+Recently Removed Pages moved to disk: 1 4 6 9 11 0 -1 -1 
+Number of page faults: 45
+
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505956303807 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 2 
+Pages in Memory:	 14 3 10 8 15 12 5 13 
+Recently Removed Pages moved to disk: 1 4 2 9 11 0 -1 -1 
+Number of page faults: 46
+
+
+Next cycle: Current page received/referenced: 11 
+SYSTEM Time: 1647505956303844 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 10 
+Pages in Memory:	 14 3 11 8 15 12 5 13 
+Recently Removed Pages moved to disk: 1 4 2 9 10 0 -1 -1 
+Number of page faults: 47
+
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505956303878 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 8 
+Pages in Memory:	 14 3 11 4 15 12 5 13 
+Recently Removed Pages moved to disk: 1 8 2 9 10 0 -1 -1 
+Number of page faults: 48
+
+
+Next cycle: Current page received/referenced: 6 
+SYSTEM Time: 1647505956303911 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 12 
+Pages in Memory:	 14 3 11 4 15 6 5 13 
+Recently Removed Pages moved to disk: 1 8 12 9 10 0 -1 -1 
+Number of page faults: 49
+
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505956303943 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 14 3 11 4 15 6 5 13 
+Recently Removed Pages moved to disk: 1 8 12 9 10 0 -1 -1 
+Number of page faults: 49
+
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505956303974 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 14 3 11 4 15 6 5 13 
+Recently Removed Pages moved to disk: 1 8 12 9 10 0 -1 -1 
+Number of page faults: 49
+
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505956304000 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 14 3 11 4 15 6 5 13 
+Recently Removed Pages moved to disk: 1 8 12 9 10 0 -1 -1 
+Number of page faults: 49
+
+
+Next cycle: Current page received/referenced: 15 
+SYSTEM Time: 1647505956304027 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 14 3 11 4 15 6 5 13 
+Recently Removed Pages moved to disk: 1 8 12 9 10 0 -1 -1 
+Number of page faults: 49
+
+
+Next cycle: Current page received/referenced: 0 
+SYSTEM Time: 1647505956304058 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 5 
+Pages in Memory:	 14 3 11 4 15 6 0 13 
+Recently Removed Pages moved to disk: 1 8 12 9 10 5 -1 -1 
+Number of page faults: 50
+
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505956304101 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 13 
+Pages in Memory:	 14 3 11 4 15 6 0 1 
+Recently Removed Pages moved to disk: 13 8 12 9 10 5 -1 -1 
+Number of page faults: 51
+
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505956304134 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 14 3 11 4 15 6 0 1 
+Recently Removed Pages moved to disk: 13 8 12 9 10 5 -1 -1 
+Number of page faults: 51
+
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505956304168 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 11 
+Pages in Memory:	 14 3 8 4 15 6 0 1 
+Recently Removed Pages moved to disk: 13 11 12 9 10 5 -1 -1 
+Number of page faults: 52
+
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505956304197 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 14 3 8 4 15 6 0 1 
+Recently Removed Pages moved to disk: 13 11 12 9 10 5 -1 -1 
+Number of page faults: 52
+
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505956304229 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 14 3 8 4 15 6 0 1 
+Recently Removed Pages moved to disk: 13 11 12 9 10 5 -1 -1 
+Number of page faults: 52
+
+
+Next cycle: Current page received/referenced: 4 
+SYSTEM Time: 1647505956304255 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 14 3 8 4 15 6 0 1 
+Recently Removed Pages moved to disk: 13 11 12 9 10 5 -1 -1 
+Number of page faults: 52
+
+
+Next cycle: Current page received/referenced: 6 
+SYSTEM Time: 1647505956304286 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 14 3 8 4 15 6 0 1 
+Recently Removed Pages moved to disk: 13 11 12 9 10 5 -1 -1 
+Number of page faults: 52
+
+
+Next cycle: Current page received/referenced: 0 
+SYSTEM Time: 1647505956304319 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 14 3 8 4 15 6 0 1 
+Recently Removed Pages moved to disk: 13 11 12 9 10 5 -1 -1 
+Number of page faults: 52
+
+
+Next cycle: Current page received/referenced: 5 
+SYSTEM Time: 1647505956304344 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 1 
+Pages in Memory:	 14 3 8 4 15 6 0 5 
+Recently Removed Pages moved to disk: 13 11 12 9 10 1 -1 -1 
+Number of page faults: 53
+
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505956304379 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 14 3 8 4 15 6 0 5 
+Recently Removed Pages moved to disk: 13 11 12 9 10 1 -1 -1 
+Number of page faults: 53
+
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505956304573 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 3 
+Pages in Memory:	 14 1 8 4 15 6 0 5 
+Recently Removed Pages moved to disk: 13 11 12 9 10 3 -1 -1 
+Number of page faults: 54
+
+
+Next cycle: Current page received/referenced: 1 
+SYSTEM Time: 1647505956304670 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 14 1 8 4 15 6 0 5 
+Recently Removed Pages moved to disk: 13 11 12 9 10 3 -1 -1 
+Number of page faults: 54
+
+
+Next cycle: Current page received/referenced: 14 
+SYSTEM Time: 1647505956304750 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 14 1 8 4 15 6 0 5 
+Recently Removed Pages moved to disk: 13 11 12 9 10 3 -1 -1 
+Number of page faults: 54
+
+
+Next cycle: Current page received/referenced: 3 
+SYSTEM Time: 1647505956304840 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 8 
+Pages in Memory:	 14 1 3 4 15 6 0 5 
+Recently Removed Pages moved to disk: 13 11 12 9 10 8 -1 -1 
+Number of page faults: 55
+
+
+Next cycle: Current page received/referenced: 5 
+SYSTEM Time: 1647505956304933 microseconds
+No Page Fault occured as Page is present in memory
+Pages in Memory:	 14 1 3 4 15 6 0 5 
+Recently Removed Pages moved to disk: 13 11 12 9 10 8 -1 -1 
+Number of page faults: 55
+
+
+Next cycle: Current page received/referenced: 8 
+SYSTEM Time: 1647505956305082 microseconds
+Page Fault occurred as Page is not present in memory
+Page which is replaced : 4 
+Pages in Memory:	 14 1 3 8 15 6 0 5 
+Recently Removed Pages moved to disk: 13 11 12 9 10 4 -1 -1 
+Number of page faults: 56
+
+
+Total number of page faults: 56 
